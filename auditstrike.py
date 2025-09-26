@@ -33,7 +33,7 @@ def clear_screen():
 def print_banner():
     print(f"""{Colors.OKCYAN}
 ╔══════════════════════════════════════════════════════════════════╗
-║              HERRAMIENTA DE AUDITORÍA - STRESS TEST v2.1        ║
+║              HERRAMIENTA DE AUDITORÍA - auditstrike v2.1        ║
 ║  Creado por: Jose Rodriguez - Técnico en Telecomunicaciones     ║
 ║              & Seguridad Digital                                 ║
 ╚══════════════════════════════════════════════════════════════════╝
