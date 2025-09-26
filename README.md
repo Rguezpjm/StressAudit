@@ -211,16 +211,6 @@ chmod +x auditstrike.py
 
 ---
 
-## 📞 Soporte y Contacto
-
-Para consultas relacionadas con auditorías de seguridad o uso profesional de la herramienta:
-
-- **Desarrollador**: Jose Rodriguez
-- **Especialidad**: Telecomunicaciones & Seguridad Digital
-- **Uso**: Exclusivamente para auditorías autorizadas
-
----
-
 ## 🔄 Changelog
 
 ### v2.1 (Actual)
@@ -238,12 +228,3 @@ Para consultas relacionadas con auditorías de seguridad o uso profesional de la
 
 ---
 
-## ⭐ Contribuciones
-
-Este es un proyecto de uso profesional interno. Para sugerencias o mejoras, contactar directamente con el desarrollador.
-
----
-
-**© 2024 Jose Rodriguez - Técnico en Telecomunicaciones & Seguridad Digital**
-
-*Herramienta desarrollada exclusivamente para auditorías de seguridad autorizadas*
